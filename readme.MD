@@ -12,3 +12,7 @@
     >git status
 - előkészítjük a commit-ra (minden változást eltárolunk):
     >git add .
+- ellenőrzés:
+    >git status
+- commit:
+    >git commit -m "first commit"
