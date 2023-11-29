@@ -24,3 +24,5 @@
     >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
 - első push-nál meg kell mondani a branch nevét:
     >git push -u origin master
+- további push-nál:
+    >git push
